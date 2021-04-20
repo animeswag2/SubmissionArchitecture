@@ -20,7 +20,7 @@
             android:theme="@style/Theme.SubmissionArchitecture.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".HomeActivity" />
+                android:value=".ui.home.HomeActivity" />
         </activity>
         <activity android:name=".ui.HomeActivity">
             <intent-filter>

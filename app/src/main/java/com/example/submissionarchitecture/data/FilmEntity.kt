@@ -5,8 +5,9 @@ import kotlinx.android.parcel.Parcelize
 
 @Parcelize
 data class FilmEntity(
+        var id: String,
         var title: String,
         var description: String,
-        var time: String,
-        var imagepath: String
+        var deadline: String,
+        var image: Int
 ):Parcelable

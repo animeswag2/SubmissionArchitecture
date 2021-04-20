@@ -1,4 +1,4 @@
-package com.example.submissionarchitecture;
+package com.example.submissionarchitecture.ui.home;
 
 import android.app.Activity;
 
